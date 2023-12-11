@@ -133,10 +133,7 @@ def recommendations(movie):
         plt.imshow(img)
         plt.title(row['title'])
         plt.show()
-    """
-    for index, row in recommend.iterrows():
         print(row['title'])
-    """
 
 
 while True:
