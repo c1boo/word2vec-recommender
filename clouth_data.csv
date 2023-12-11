@@ -1,0 +1,88 @@
+İsim,Kumaş,Renk,Firma,Cinsiyet,Beden
+Kazak,Yün,Mavi,Koton,Erkek,M
+Ayakkabı,Deri,Siyah,Adidas,Kadın,36
+Pantolon,Kot,Mavi,Levi's,Erkek,32
+Etek,Keten,Siyah,Zara,Kadın,40
+Gömlek,Pamuk,Beyaz,Lacoste,Erkek,L
+Bluz,İpek,Sarı,Mango,Kadın,S
+Elbise,Saten,Pembe,H&M,Kadın,M
+Tişört,Penye,Beyaz,Nike,Unisex,S
+Sweatshirt,Fermuarlı,Siyah,Puma,Unisex,M
+Mont,Kaz Tüyü,Bordo,Columbia,Unisex,L
+Kaban,Yün,Siyah,Palto,Unisex,XL
+Şort,Jean,Lacivert,Mavi,Erkek,34
+Eşofman,Penye,Gri,Adidas,Erkek,M
+Mayo,Mayo Kumaş,Beyaz,Speedo,Erkek,M
+Bikini,Mayo Kumaş,Siyah,Victoria's Secret,Kadın,S
+Çorap,Pamuklu,Siyah,Penti,Unisex,42
+Şapka,Pamuk,Kırmızı,New Era,Unisex,S
+Atkı,Yün,Siyah,Marks & Spencer,Unisex,M
+Eldiven,Deri,Siyah,Gant,Unisex,L
+Kemer,Deri,Siyah,Lacoste,Erkek,32
+Cüzdan,Deri,Siyah,Hugo Boss,Erkek,M
+Çanta,Deri,Siyah,Chanel,Kadın,M
+Ayakkabı,Deri,Beyaz,Converse,Unisex,38
+Sandalet,Deri,Bej,Birkenstock,Unisex,40
+Terlik,Plaj Terliği,Lacivert,Crocs,Unisex,42
+Ayakkabı,Spor,Siyah,Nike,Erkek,44
+Ayakkabı,Spor,Beyaz,Adidas,Kadın,38
+Ayakkabı,Klasik,Siyah,Lacoste,Erkek,42
+Ayakkabı,Klasik,Lacivert,Hugo Boss,Erkek,44
+Ayakkabı,Abiye,Siyah,Prada,Kadın,36
+Ayakkabı,Abiye,Gümüş,Jimmy Choo,Kadın,38
+Ayakkabı, Deri, Siyah, Adidas, Kadın, 36
+Şort, Pamuk, Bej, Nike, Erkek, L
+Elbise, Ketan, Kırmızı, Zara, Kadın, 40
+Tişört, Poliamid, Sarı, Puma, Erkek, XL
+Ceket, Akrilik, Yeşil, H&M, Kadın, S
+Mont, Poliester, Mor, Asics, Erkek, M
+Etek, Kot, Beyaz, Bershka, Kadın, 38
+Gömlek, Kadife, Sarı, Zara, Erkek, L
+Bot, Deri, Kahverengi, Nike, Kadın, 37
+Sweatshirt, Pamuk, Kırmızı, Puma, Erkek, XXL
+Kaban, Kaşmir, Gri, H&M, Kadın, M
+Jean, Pamuk, Mavi, Levi's, Erkek, 32
+Kazak, Angora, Pembe, Zara, Kadın, S
+Spor Ayakkabı, Kumaş, Siyah, Adidas, Erkek, 44
+Trençkot, Poliester, Bej, H&M, Kadın, 38
+Gömlek, Ketan, Mor, Zara, Erkek, XL
+Tayt, Pamuk, Mavi, Nike, Kadın, M
+Kapşonlu Sweatshirt, Poliester, Gri, Adidas, Erkek, L
+Palto, Yün, Siyah, Bershka, Kadın, S
+Gömlek, Denim, Mavi, Levi's, Erkek, M
+Bikini, Poliamid, Mor, H&M, Kadın, 36
+Pantolon, Pamuk, Bej, Zara, Erkek, 34
+Kazak, Akrilik, Sarı, Asics, Kadın, S
+Sneaker, Deri, Beyaz, Nike, Erkek, 42
+Eti, Pamuk, Pembe, Zara, Kadın, M
+Deri Ceket, Deri, Kahverengi, Adidas, Erkek, L
+Tulum, Viskoz, Siyah, H&M, Kadın, 40
+Ceket, Poliester, Kırmızı, Puma, Erkek, XL
+Elbise, Pamuk, Beyaz, Zara, Kadın, 38
+Gömlek, Pamuk, Sarı, Levi's, Erkek, M
+Sweatshirt, Penye, Mavi, Nike, Kadın, L
+Kaban, Poliester, Siyah, H&M, Erkek, XL
+Etek, Pamuk, Pembe, Bershka, Kadın, 36
+Tişört, Pamuk, Beyaz, H&M, Erkek, XXL
+Kazak, Angora, Mor, Zara, Kadın, S
+Ayakkabı, Deri, Beyaz, Puma, Erkek, 41
+Şort, Pamuk, Mavi, Asics, Kadın, M
+Jean, Denim, Mavi, Zara, Erkek, 36
+Bluz, Pamuk, Mavi, Zara, Kadın, L
+Sweatshirt, Poliester, Siyah, Asics, Erkek, L
+Mont, Poliester, Sarı, H&M, Kadın, M
+Gömlek, Ketan, Bordo, Zara, Erkek, XL
+Ceket, Pamuk, Kahverengi, Levi's, Kadın, S
+Spor Ayakkabı, Kumaş, Beyaz, Puma, Erkek, 43
+Trençkot, Poliester, Siyah, Asics, Kadın, 38
+Gömlek, Pamuk, Bej, Nike, Erkek, XXL
+Tayt, Spandex, Mor, Zara, Kadın, M
+Kapşonlu Sweatshirt, Poliester, Mavi, H&M, Erkek, L
+Palto, Yün, Siyah, Adidas, Kadın, S
+Gömlek, Denim, Mavi, Nike, Erkek, M
+Bikini, Poliamid, Mavi, Zara, Kadın, 36
+Pantolon, Pamuk, Siyah, Levi's, Erkek, 34
+Kazak, Pamuk, Mor, H&M, Kadın, S
+Sneaker, Deri, Sarı, Puma, Erkek, 42
+Eti, Pamuk, Mor, Zara, Kadın, M
+Deri Ceket, Deri, Siyah, H&M, Erkek

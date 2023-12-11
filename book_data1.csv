@@ -1,0 +1,101 @@
+﻿numarAskitapadi,turu,yayinevi,yazar,sayfa,yil
+1,Gece Treni,Gizem,XYZ Yay?nevi,Ahmet Demir,320,2019
+2,Gökyüzüne Yolculuk,Bilim Kurgu,ABC Kitaplar?,Melis Y?lmaz,256,2021
+3,Kay?p Zaman?n Pe?inde,Roman,DEF Yay?nlar?,Mehmet Aksoy,400,2018
+4,Sis ve Serab,Suç,UVW Kitap,Elif Duran,280,2020
+5,Ç??l?k,Psikoloji,KLM Yay?n Grubu,Ay?e Y?ld?z,336,2017
+6,Uçurtma Avc?s?,Klasik,EFG Yay?n Evi,Khaled Hosseini,448,2003
+7,Karanl???n Yüre?i,Gerilim,HIJ Yay?nlar?,Can Yaman,304,2015
+8,Gerçe?in Pe?inde,Biyografi,MNO Kitap,Sevim Demir,272,2022
+9,Huzur Soka??,Ask,RST Yay?nlar?,Ahmet Can,324,2016
+10,Kaç??,Macera,PQR Press,Aylin Karahan,380,2014
+11,Sisler ?çindeki Ceset,Korku,STU Kitap,Mert Erdo?an,308,2023
+12,Ku?lar da Gitti,Aile Drama,VWX Yay?n,Elif Do?an,352,2011
+13,Geceye Yolculuk,Fantastik,LMN Yay?nc?l?k,Cem Y?lmaz,288,2020
+14,Kay?p Diyarlar,Macera,OPQ Kitap,Deniz Çelik,416,2019
+15,Beyaz Geceler,Roman,RUV Yay?nlar?,Elif Arslan,344,2017
+16,Sava??n ?zleri,Sava? Hikayesi,STX Yay?n,Emre Kaya,400,2015
+17,Uzak Diyarlarda Ask,Ask,UVY Yay?n,?eyma Öztürk,296,2022
+18,Hayaletin Ça?r?s?,Korku,XYZ Yay?n,?smail Ayd?n,312,2018
+19,Göçmen Ku?lar,Duygusal,KLM Kitap,Ahmet Kaya,368,2016
+20,Son Ak?am Yeme?i,Tarih,ABC Yay?nlar?,Melih Tan,432,2014
+21,Karanl?k Gece,Gizem,EFG Kitap,Esra Y?lmaz,324,2021
+22,Yitik Zamanlar,Roman,DEF Yay?nc?l?k,Ay?e Korkmaz,376,2019
+23,Kara Delik,Bilim Kurgu,HIJ Yay?n,Özgür Demir,280,2017
+24,Sessiz Ç??l?k,Suç,JKL Yay?nlar,Selin Türk,308,2014
+25,Kalbimin Derinliklerinde,Psikoloji,MNO Kitap,Fatma Aksoy,352,2023
+26,Geri Dönü?,Macera,PQR Yay?n,Ahmet Ayd?n,288,2020
+27,Ölümcül Oyun,Gerilim,RST Kitap,Ay?e Demir,320,2018
+28,Yabanc?,Bilim Kurgu,STU Yay?n,Emin Y?lmaz,416,2016
+29,Masumiyet,Ask,VWX Yay?nc?l?k,Seda Can,344,2015
+30,?syan,Tarih,XYZ Yay?nlar?,Ali Y?ld?z,400,2012
+31,Huzursuz Rüyalar,Korku,ABC Kitap,Kemal Aksoy,296,2021
+32,Uçan Adamlar,Duygusal,EFG Yay?n Evi,Nihan Türk,432,2019
+33,Ya?am?n Pe?inde,Gizem,HIJ Yay?n,Mehmet Can,368,2017
+34,Göç,Roman,JKL Yay?nlar,Sevda Öztürk,312,2015
+35,Son Ak?am Yeme?i,Bilim Kurgu,LMN Kitap,Aylin Kaya,324,2022
+36,Paralel Evrenler,Suç,OPQ Yay?n,Murat Arslan,288,2018
+37,K?r?k Dökük,Duygusal,RUV Yay?nlar?,Semih Y?ld?r?m,376,2016
+38,Hayaletin Ça?r?s?,Ask,STX Kitap,Emine Korkmaz,320,2014
+39,Kaybolan Zamanlar,Gerilim,UVY Yay?n,Onur Demir,344,2011
+40,Gözya??,Sava? Hikayesi,XYZ Yay?n,Esra Ayd?n,400,2019
+41,Sisli Da?lar,Gizem,EFG Yay?n Evi,Can Kaya,432,2017
+42,Sessiz Ç??l?k,Roman,DEF Yay?nc?l?k,Elif Demir,296,2015
+43,Beyaz Gece,Bilim Kurgu,HIJ Yay?n,Mert Korkmaz,320,2013
+44,Geri Dönü?,Suç,JKL Yay?nlar,Nur Ayd?n,368,2020
+45,Sonsuzluk,Macera,PQR Yay?n,Ahmet Y?ld?z,344,2018
+46,Ölümcül Oyun,Gerilim,RST Kitap,Ay?e Demir,312,2016
+47,Yabanc?,Bilim Kurgu,STU Yay?n,Emine Y?lmaz,400,2014
+48,Masumiyet,Ask,VWX Yay?nc?l?k,Mert Can,432,2012
+49,?syan,Tarih,XYZ Yay?nlar?,Selin Y?ld?z,288,2021
+50,Huzursuz Rüyalar,Korku,ABC Kitap,Ahmet Aksoy,376,2019
+51,Uçan Adamlar,Duygusal,EFG Yay?n Evi,Melis Demir,324,2017
+52,Ya?am?n Pe?inde,Gizem,HIJ Yay?n,Mehmet Can,368,2015
+53,Göç,Roman,JKL Yay?nlar,Sevda Y?ld?r?m,320,2013
+54,Son Ak?am Yeme?i,Bilim Kurgu,LMN Kitap,Ahmet Kaya,344,2018
+55,Paralel Evrenler,Suç,OPQ Yay?n,Elif Ayd?n,312,2016
+56,K?r?k Dökük,Duygusal,RUV Yay?nlar?,Can Y?lmaz,400,2014
+57,Hayaletin Ça?r?s?,Ask,STX Kitap,Emine Y?ld?z,432,2011
+58,Kaybolan Zamanlar,Gerilim,UVY Yay?n,Cem Ayd?n,296,2020
+59,Gözya??,Sava? Hikayesi,XYZ Yay?n,Melis Y?lmaz,320,2017
+60,Sisli Da?lar,Gizem,EFG Yay?n Evi,Ay?e Y?ld?r?m,368,2015
+61,Sessiz Ç??l?k,Roman,DEF Yay?nc?l?k,Mert Demir,344,2013
+62,Beyaz Gece,Bilim Kurgu,HIJ Yay?n,Ahmet Ayd?n,312,2019
+63,Geri Dönü?,Suç,JKL Yay?nlar,Aylin Y?lmaz,400,2017
+64,Sonsuzluk,Macera,PQR Yay?n,Melih Kaya,432,2015
+65,Ölümcül Oyun,Gerilim,RST Kitap,Elif Can,320,2013
+66,Yabanc?,Bilim Kurgu,STU Yay?n,Ahmet Y?lmaz,368,2018
+67,Masumiyet,Ask,VWX Yay?nc?l?k,Ay?e Kaya,344,2016
+68,?syan,Tarih,XYZ Yay?nlar?,Mehmet Y?ld?r?m,296,2014
+69,Huzursuz Rüyalar,Korku,ABC Kitap,Zeynep Y?lmaz,400,2012
+70,Uçan Adamlar,Duygusal,EFG Yay?n Evi,Emir Kaya,432,2019
+71,Ya?am?n Pe?inde,Gizem,HIJ Yay?n,Aylin Y?ld?r?m,320,2017
+72,Göç,Roman,JKL Yay?nlar,Can Y?ld?z,344,2015
+73,Son Ak?am Yeme?i,Bilim Kurgu,LMN Kitap,Selin Y?lmaz,312,2013
+74,Paralel Evrenler,Suç,OPQ Yay?n,Ahmet Korkmaz,368,2021
+75,K?r?k Dökük,Duygusal,RUV Yay?nlar?,Seda Demir,400,2019
+76,Hayaletin Ça?r?s?,Ask,STX Kitap,Ay?e Kaya,432,2017
+77,Kaybolan Zamanlar,Gerilim,UVY Yay?n,Mert Y?ld?r?m,320,2015
+78,Gözya??,Sava? Hikayesi,XYZ Yay?n,Selin Kaya,344,2013
+79,Sisli Da?lar,Gizem,EFG Yay?n Evi,Emre Y?lmaz,312,2019
+80,Sessiz Ç??l?k,Roman,DEF Yay?nc?l?k,Melis Kaya,368,2017
+81,Beyaz Gece,Bilim Kurgu,HIJ Yay?n,Ay?e Demir,400,2015
+82,Geri Dönü?,Suç,JKL Yay?nlar,Can Y?lmaz,432,2013
+83,Sonsuzluk,Macera,PQR Yay?n,Elif Kaya,320,2021
+84,Ölümcül Oyun,Gerilim,RST Kitap,Ahmet Y?ld?z,344,2019
+85,Yabanc?,Bilim Kurgu,STU Yay?n,Selin Kaya,312,2017
+86,Masumiyet,Ask,VWX Yay?nc?l?k,Melih Y?lmaz,368,2015
+87,?syan,Tarih,XYZ Yay?nlar?,Ay?e Y?ld?r?m,400,2013
+88,Huzursuz Rüyalar,Korku,ABC Kitap,Emre Kaya,432,2019
+89,Uçan Adamlar,Duygusal,EFG Yay?n Evi,Sevda Y?ld?r?m,320,2017
+90,Ya?am?n Pe?inde,Gizem,HIJ Yay?n,Mert Kaya,344,2015
+91,Göç,Roman,JKL Yay?nlar,Aylin Y?ld?z,312,2013
+92,Son Ak?am Yeme?i,Bilim Kurgu,LMN Kitap,Can Y?lmaz,368,2021
+93,Paralel Evrenler,Suç,OPQ Yay?n,Elif Kaya,400,2019
+94,K?r?k Dökük,Duygusal,RUV Yay?nlar?,Ay?e Y?ld?r?m,432,2017
+95,Hayaletin Ça?r?s?,Ask,STX Kitap,Mert Y?ld?z,320,2015
+96,Kaybolan Zamanlar,Gerilim,UVY Yay?n,Selin Y?lmaz,344,2013
+97,Gözya??,Sava? Hikayesi,XYZ Yay?n,Melis Kaya,312,2019
+98,Sisli Da?lar,Gizem,EFG Yay?n Evi,Emre Y?lmaz,368,2017
+99,Sessiz Ç??l?k,Roman,DEF Yay?nc?l?k,Ay?e Kaya,400,2015
+100,Beyaz Gece,Bilim Kurgu,HIJ Yay?n,Ahmet Demir,432,2013

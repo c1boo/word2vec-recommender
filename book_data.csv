@@ -1,0 +1,102 @@
+﻿Tnumara,isim,tur,yayinevi,yazar,sayfa,yil
+1,Gece Treni,Gizem,XYZ Yayınevi,Ahmet Demir,320,2019
+2,Gökyüzüne Yolculuk,Bilim Kurgu,ABC Kitapları,Melis Yılmaz,256,2021
+3,Kayıp Zamanın Peşinde,Roman,DEF Yayınları,Mehmet Aksoy,400,2018
+4,Sis ve Serab,Suç,UVW Kitap,Elif Duran,280,2020
+5,Çığlık,Psikoloji,KLM Yayın Grubu,Ayşe Yıldız,336,2017
+6,Uçurtma Avcısı,Klasik,EFG Yayın Evi,Khaled Hosseini,448,2003
+7,Karanlığın Yüreği,Gerilim,HIJ Yayınları,Can Yaman,304,2015
+8,Gerçeğin Peşinde,Biyografi,MNO Kitap,Sevim Demir,272,2022
+9,Huzur Sokağı,Aşk,RST Yayınları,Ahmet Can,324,2016
+10,Kaçış,Macera,PQR Press,Aylin Karahan,380,2014
+11,Sisler İçindeki Ceset,Korku,STU Kitap,Mert Erdoğan,308,2023
+12,Kuşlar da Gitti,Aile Drama,VWX Yayın,Elif Doğan,352,2011
+13,Geceye Yolculuk,Fantastik,LMN Yayıncılık,Cem Yılmaz,288,2020
+14,Kayıp Diyarlar,Macera,OPQ Kitap,Deniz Çelik,416,2019
+15,Beyaz Geceler,Roman,RUV Yayınları,Elif Arslan,344,2017
+16,Savaşın İzleri,Savaş Hikayesi,STX Yayın,Emre Kaya,400,2015
+17,Uzak Diyarlarda Aşk,Aşk,UVY Yayın,Şeyma Öztürk,296,2022
+18,Hayaletin Çağrısı,Korku,XYZ Yayın,İsmail Aydın,312,2018
+19,Göçmen Kuşlar,Duygusal,KLM Kitap,Ahmet Kaya,368,2016
+20,Son Akşam Yemeği,Tarih,ABC Yayınları,Melih Tan,432,2014
+21,Karanlık Gece,Gizem,EFG Kitap,Esra Yılmaz,324,2021
+22,Yitik Zamanlar,Roman,DEF Yayıncılık,Ayşe Korkmaz,376,2019
+23,Kara Delik,Bilim Kurgu,HIJ Yayın,Özgür Demir,280,2017
+24,Sessiz Çığlık,Suç,JKL Yayınlar,Selin Türk,308,2014
+25,Kalbimin Derinliklerinde,Psikoloji,MNO Kitap,Fatma Aksoy,352,2023
+26,Geri Dönüş,Macera,PQR Yayın,Ahmet Aydın,288,2020
+27,Ölümcül Oyun,Gerilim,RST Kitap,Ayşe Demir,320,2018
+28,Yabancı,Bilim Kurgu,STU Yayın,Emin Yılmaz,416,2016
+29,Masumiyet,Aşk,VWX Yayıncılık,Seda Can,344,2015
+30,İsyan,Tarih,XYZ Yayınları,Ali Yıldız,400,2012
+31,Huzursuz Rüyalar,Korku,ABC Kitap,Kemal Aksoy,296,2021
+32,Uçan Adamlar,Duygusal,EFG Yayın Evi,Nihan Türk,432,2019
+33,Yaşamın Peşinde,Gizem,HIJ Yayın,Mehmet Can,368,2017
+34,Göç,Roman,JKL Yayınlar,Sevda Öztürk,312,2015
+35,Son Akşam Yemeği,Bilim Kurgu,LMN Kitap,Aylin Kaya,324,2022
+36,Paralel Evrenler,Suç,OPQ Yayın,Murat Arslan,288,2018
+37,Kırık Dökük,Duygusal,RUV Yayınları,Semih Yıldırım,376,2016
+38,Hayaletin Çağrısı,Aşk,STX Kitap,Emine Korkmaz,320,2014
+39,Kaybolan Zamanlar,Gerilim,UVY Yayın,Onur Demir,344,2011
+40,Gözyaşı,Savaş Hikayesi,XYZ Yayın,Esra Aydın,400,2019
+41,Sisli Dağlar,Gizem,EFG Yayın Evi,Can Kaya,432,2017
+42,Sessiz Çığlık,Roman,DEF Yayıncılık,Elif Demir,296,2015
+43,Beyaz Gece,Bilim Kurgu,HIJ Yayın,Mert Korkmaz,320,2013
+44,Geri Dönüş,Suç,JKL Yayınları,Nur Aydın,368,2020
+45,Sonsuzluk,Macera,PQR Yayın,Ahmet Yıldız,344,2018
+46,Ölümcül Oyun,Gerilim,RST Kitap,Ayşe Demir,312,2016
+47,Yabancı,Bilim Kurgu,STU Yayın,Emine Yılmaz,400,2014
+48,Masumiyet,Aşk,VWX Yayıncılık,Mert Can,432,2012
+49,İsyan,Tarih,XYZ Yayınları,Selin Yıldız,288,2021
+50,Huzursuz Rüyalar,Korku,ABC Kitap,Ahmet Aksoy,376,2019
+51,Uçan Adamlar,Duygusal,EFG Yayın Evi,Melis Demir,324,2017
+52,Yaşamın Peşinde,Gizem,HIJ Yayın,Mehmet Can,368,2015
+53,Göç,Roman,JKL Yayınlar,Sevda Yıldırım,320,2013
+54,Son Akşam Yemeği,Bilim Kurgu,LMN Kitap,Ahmet Kaya,344,2018
+55,Paralel Evrenler,Suç,OPQ Yayın,Elif Aydın,312,2016
+56,Kırık Dökük,Duygusal,RUV Yayınları,Can Yılmaz,400,2014
+57,Hayaletin Çağrısı,Aşk,STX Kitap,Emine Yıldız,432,2011
+58,Kaybolan Zamanlar,Gerilim,UVY Yayın,Cem Aydın,296,2020
+59,Gözyaşı,Savaş Hikayesi,XYZ Yayın,Melis Yılmaz,320,2017
+60,Sisli Dağlar,Gizem,EFG Yayın Evi,Ayşe Yıldırım,368,2015
+61,Sessiz Çığlık,Roman,DEF Yayıncılık,Mert Demir,344,2013
+62,Beyaz Gece,Bilim Kurgu,HIJ Yayın,Ahmet Aydın,312,2019
+63,Geri Dönüş,Suç,JKL Yayınları,Aylin Yılmaz,400,2017
+64,Sonsuzluk,Macera,PQR Yayın,Melih Kaya,432,2015
+65,Ölümcül Oyun,Gerilim,RST Kitap,Elif Can,320,2013
+66,Yabancı,Bilim Kurgu,STU Yayın,Ahmet Yılmaz,368,2018
+67,Masumiyet,Aşk,VWX Yayıncılık,Ayşe Kaya,344,2016
+68,İsyan,Tarih,XYZ Yayınları,Mehmet Yıldırım,296,2014
+69,Huzursuz Rüyalar,Korku,ABC Kitap,Zeynep Yılmaz,400,2012
+70,Uçan Adamlar,Duygusal,EFG Yayın Evi,Emir Kaya,432,2019
+71,Yaşamın Peşinde,Gizem,HIJ Yayın,Aylin Yıldırım,320,2017
+72,Göç,Roman,JKL Yayınlar,Can Yıldız,344,2015
+73,Son Akşam Yemeği,Bilim Kurgu,LMN Kitap,Selin Yılmaz,312,2013
+74,Paralel Evrenler,Suç,OPQ Yayın,Ahmet Korkmaz,368,2021
+75,Kırık Dökük,Duygusal,RUV Yayınları,Seda Demir,400,2019
+76,Hayaletin Çağrısı,Aşk,STX Kitap,Ayşe Kaya,432,2017
+77,Kaybolan Zamanlar,Gerilim,UVY Yayın,Mert Yıldırım,320,2015
+78,Gözyaşı,Savaş Hikayesi,XYZ Yayın,Selin Kaya,344,2013
+79,Sisli Dağlar,Gizem,EFG Yayın Evi,Emre Yılmaz,312,2019
+80,Sessiz Çığlık,Roman,DEF Yayıncılık,Melis Kaya,368,2017
+81,Beyaz Gece,Bilim Kurgu,HIJ Yayın,Ayşe Demir,400,2015
+82,Geri Dönüş,Suç,JKL Yayınları,Can Yılmaz,432,2013
+83,Sonsuzluk,Macera,PQR Yayın,Elif Kaya,320,2021
+84,Ölümcül Oyun,Gerilim,RST Kitap,Ahmet Yıldız,344,2019
+85,Yabancı,Bilim Kurgu,STU Yayın,Selin Kaya,312,2017
+86,Masumiyet,Aşk,VWX Yayıncılık,Melih Yılmaz,368,2015
+87,İsyan,Tarih,XYZ Yayınları,Ayşe Yıldırım,400,2013
+88,Huzursuz Rüyalar,Korku,ABC Kitap,Emre Kaya,432,2019
+89,Uçan Adamlar,Duygusal,EFG Yayın Evi,Sevda Yıldırım,320,2017
+90,Yaşamın Peşinde,Gizem,HIJ Yayın,Mert Kaya,344,2015
+91,Göç,Roman,JKL Yayınlar,Aylin Yıldız,312,2013
+92,Son Akşam Yemeği,Bilim Kurgu,LMN Kitap,Can Yılmaz,368,2021
+93,Paralel Evrenler,Suç,OPQ Yayın,Elif Kaya,400,2019
+94,Kırık
+94,K?r?k Dökük,Duygusal,RUV yayinlari,Ayse Yildirim,432,2017
+95,Hayaletin Ça?r?s?,Ask,STX Kitap,Mert Yildiz,320,2015
+96,Kaybolan Zamanlar,Gerilim,UVY yayin,Selin Yilmaz,344,2013
+97,Gözya??,Savas Hikayesi,XYZ yayin,Melis Kaya,312,2019
+98,Sisli Da?lar,Gizem,EFG yayin Evi,Emre Yilmaz,368,2017
+99,Sessiz Ç??l?k,Roman,DEF yayincilik,Ayse Kaya,400,2015
+100,Beyaz Gece,Bilim Kurgu,HIJ yayin,Ahmet Demir,432,2013
