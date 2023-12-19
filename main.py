@@ -18,32 +18,32 @@ warnings.filterwarnings('ignore')
 df = pd.read_excel('data.xlsx', sheet_name='Sheet1').drop(['Unnamed: 0'], axis=1)
 
 
-# Function for removing ASCII characters
+# ASCII karakterleri dışındaki karakterleri kaldırma
 def _remove_non_ascii(s):
     return "".join(i for i in s if ord(i) < 128)
 
 
-# Function for converting to lower case
+# Tüm harfleri küçük harfe çevirme
 def make_lower_case(text):
     return text.lower()
 
 
-# Function for removing stop words
+# Stop wordleri kaldırma
 def remove_stop_words(text):
     text = text.split()
     stops = set(stopwords.words("english"))
-    text = [w for w in text if not w in stops]
+    text = [w for w in text if w not in stops]
     text = " ".join(text)
     return text
 
 
-# Function for removing html
+# HTML etiketlerini kaldırma
 def remove_html(text):
     html_pattern = re.compile('<.*?>')
     return html_pattern.sub(r'', text)
 
 
-# Function for removing punctuation
+# Noktalama işaretlerini kaldırma
 def remove_punctuation(text):
     tokenizer = RegexpTokenizer(r'\w+')
     text = tokenizer.tokenize(text)
@@ -58,27 +58,26 @@ df['Cleaned'] = df.Cleaned.apply(func=remove_stop_words)
 df['Cleaned'] = df.Cleaned.apply(func=remove_punctuation)
 df['Cleaned'] = df.Cleaned.apply(func=remove_html)
 
-# Splitting the description into words
+# Açıklamayı kelimelere bölere liste oluşturma
 corpus = []
 for words in df['Cleaned']:
     corpus.append(words.split())
 
-# ############# Training ##################
+# ############# Google News Word2Vec modelini yükleme ve eğitme ##################
 EMBEDDING_FILE = 'word2vec-google-news-300.gz'
 google_word2vec = KeyedVectors.load_word2vec_format(EMBEDDING_FILE, binary=True)
 
-# Training our corpus with the model
+# Modelin corpus üzerinde eğitilmesi
 google_model = Word2Vec(vector_size=300, window=5, min_count=2, workers=-1)
 google_model.build_vocab(corpus)
 google_model.train(corpus, total_examples=google_model.corpus_count, epochs=5)
 
 
 def vectors(x):
-    # Creating a list for storing the vectors ('Description' into vectors)
+    # Film açıklamalarını vektörlere çevirme ve vektörleri saklamak için bir liste oluşturma
     global word_embeddings
     word_embeddings = []
 
-    # Reading the each 'Description'
     for line in df['Cleaned']:
         avgword2vec = None
         count = 0
@@ -95,18 +94,17 @@ def vectors(x):
             word_embeddings.append(avgword2vec)
 
 
-# Recommending the Top 5 similar movies
+# En benzer 5 filmi önerme
 def recommendations(movie):
-    # Calling the function vectors
     vectors(df)
 
-    # Finding cosine similarity for the vectors
+    # Kosinüs benzerliğini bulma
     cosine_similarities = cosine_similarity(word_embeddings, word_embeddings)
 
-    # Taking the Title and Movie Image Link and store in new dataframe called 'movies'
+    # Başlık ve Film Görüntüsü linkini alma ve `movies` adı verilen DataFramei oluşturma
     movies = df[['Movie', 'ImgLink']]
 
-    # Reverse mapping of the index
+    # İndexin ters işlenmesi (Reverse Mapping)
     indices = pd.Series(df.index, index=df['Movie']).drop_duplicates()
 
     try:
@@ -138,7 +136,7 @@ def recommendations(movie):
         plt.show()
         print(row['Movie'])
 
-
+# Kullanıcılardan film adı alma ve tavsiyeleri gösterme
 while True:
     title = input("Enter title: ")
     print("Recommendations:")
